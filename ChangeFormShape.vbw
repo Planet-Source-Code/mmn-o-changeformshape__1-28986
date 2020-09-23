@@ -1,0 +1,11 @@
+frmMain = 110, 152, 594, 600, C, 22, 22, 506, 470, C
+modFormShape = 148, 125, 632, 573, 
+clsGradient = 174, 110, 707, 558, C
+Form_Control = 0, 0, 0, 0, C
+Form_ControlPos = 0, 0, 0, 0, C
+modComments = 154, 154, 687, 602, Z
+frmPolygon = 132, 132, 665, 580, C, 110, 110, 643, 558, C
+modMoveForm = 198, 198, 731, 646, C
+frmPicture = 0, 0, 0, 0, C, 132, 132, 665, 580, C
+frmPictureShape = 66, 66, 599, 514, , 44, 44, 577, 492, C
+clsTransForm = 132, 132, 665, 580, 
